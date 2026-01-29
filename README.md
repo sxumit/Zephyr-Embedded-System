@@ -72,7 +72,7 @@ Verified execution through QEMU console
 
 ![Zephyr App Output](screenshots/zephyr-app-output.png)
 
-🔹 Step 5: Debugging with GDB
+### 🔹 Step 5: Debugging with GDB
 
 Started QEMU in debug mode
 
@@ -85,9 +85,9 @@ Stepped through boot and execution flow
 📸 Screenshot: GDB breakpoint
 📸 Screenshot: stepping into main
 
-![GDB breakpoint and debug](screenshots/gdb-breakpoint-debugging)
+![GDB breakpoint and debug](screenshots/gdb-breakpoint-debugging.png)
 
-📚 What I Learned
+## 📚 What I Learned
 
 How RTOS bring-up works
 
@@ -99,6 +99,6 @@ How to troubleshoot real toolchain issues
 
 How Zephyr RTOS is structured
 
-🎯 Why This Project Matters
+## 🎯 Why This Project Matters
 
 This project gave me hands-on exposure to embedded systems bring-up, firmware debugging, and RTOS workflows. It closely reflects real-world embedded engineering practices and Arm ecosystem development
