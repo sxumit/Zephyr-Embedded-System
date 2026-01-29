@@ -62,7 +62,6 @@ The goal of this project was not just to run a sample, but to understand the rea
 
 Commands used:
 
-```bash
 west build -b qemu_cortex_m3 zephyr/samples/hello_world
 west build -t run
 Booted Zephyr on ARM Cortex-M3 emulated board
