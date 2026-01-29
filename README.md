@@ -89,15 +89,15 @@ Stepped through boot and execution flow
 
 ## 📚 What I Learned
 
-    How RTOS bring-up works
+- How RTOS bring-up works
 
-    How firmware flows from reset handler to main()
+- How firmware flows from reset handler to main()
 
-    How embedded debugging is done using GDB
+- How embedded debugging is done using GDB
 
-    How to troubleshoot real toolchain issues
+- How to troubleshoot real toolchain issues
 
-    How Zephyr RTOS is structured
+- How Zephyr RTOS is structured
 
 ## 🎯 Why This Project Matters
 
