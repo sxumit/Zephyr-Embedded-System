@@ -8,7 +8,7 @@ The goal of this project was not just to run a sample, but to understand the rea
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stacks
 
 - Zephyr RTOS  
 - ARM Cortex-M3  
