@@ -68,7 +68,7 @@ Booted Zephyr on ARM Cortex-M3 emulated board
 
 Verified execution through QEMU console
 
-📸 Screenshot: Hello World running in QEMU
+📸 Screenshot: Hello World running in Zephyr OS
 
 ![Zephyr App Output](screenshots/zephyr-app-output.png)
 
