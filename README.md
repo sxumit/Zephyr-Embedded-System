@@ -99,6 +99,3 @@ Stepped through boot and execution flow
 
 - How Zephyr RTOS is structured
 
-## 🎯 Why This Project Matters
-
-This project gave me hands-on exposure to embedded systems bring-up, firmware debugging, and RTOS workflows. It closely reflects real-world embedded engineering practices and Arm ecosystem development
